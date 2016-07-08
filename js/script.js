@@ -3,7 +3,6 @@
 
 	// $('#datetime').innerHTML = Date();
 
-	document.getElementById('datetime').innerHTML = Date()
+	document.getElementById('datetime').innerHTML = Date();
 }(jQuery));
 	
-
